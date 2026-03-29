@@ -15,7 +15,9 @@
 
 Watch the Image Processing Engine in action:
 
-[https://github.com/user/Image-Processing-Engine/assets/demo/Image-Processing-Engine.mp4](https://github.com/aditya149s/Digital-Image-Processing-Engine/blob/main/Image-Processing-Engine.mp4)
+![Demo](Image-Processing-Engine.gif)
+
+> **Note:** If the video doesn't play above, download it or view it in the `assets` folder of the repository.
 
 ---
 
