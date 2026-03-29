@@ -30,7 +30,6 @@ Watch the Image Processing Engine in action:
 | ☀️ **Brightness Control** | Adjust brightness from 0.5x to 2.0x |
 | 🔄 **Color Inversion** | Create stunning inverted color effects |
 | ✂️ **Image Cropping** | Interactive crop with precise coordinate controls |
-| 🎨 **Glassmorphism UI** | Beautiful, modern dark theme interface |
 
 ---
 
@@ -45,7 +44,7 @@ Watch the Image Processing Engine in action:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Image-Processing-Engine.git
+git clone https://github.com/aditya149s/Digital-Image-Processing-Engine.git
 cd Image-Processing-Engine
 
 # Install dependencies
